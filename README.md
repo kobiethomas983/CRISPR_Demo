@@ -13,4 +13,4 @@ In the CRISPR therapy demo you have 10 options which include
 	8) Splice sequence
 	9) Quit
 
-dna_main is how you can compile all files in this respitory
+In the file dnastrand.dat is a data file that contains a dnastrand (you can change them if you like) but the characters should only be A,C,T, or G in the data file.
